@@ -1,6 +1,8 @@
-Hello and welcome to my world of trying a lot of work until I close in on the "GAP", as described by Ira Glass.
+Hello friends,
+Welcome to my world of beggining with a lot of work until I close in on the "GAP", as described by Ira Glass.
 
-![Image of fast.ai logo](images/logo.png)
+I am a Data Scientist / Machine Learning practitioner by profession. I aim of getting good at investing, writing (blogging), playing an instrument (guitar), video creation, developing a "Happy Body" and creating a household of happy people.
+
 
 ## This is a title
 
