@@ -8,11 +8,11 @@
 
 title: Mrigank's Blog
 description: 
-github_username: mriganktiwari
+# github_username: mriganktiwari
 
 # Email and twitter are optional:
 # email: 
-twitter_username: minkuts
+# twitter_username: minkuts
 
 # Set this to true to get LaTeX math equation support
 use_math:
