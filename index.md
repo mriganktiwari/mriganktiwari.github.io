@@ -1,3 +1,4 @@
+
 ## Hello friends,
 Welcome to my world of beginning with a lot of work until I close in on the "GAP", as described by Ira Glass.
 
