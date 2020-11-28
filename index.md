@@ -1,5 +1,5 @@
 ## Hello friends,
-Welcome to my world of beggining with a lot of work until I close in on the "GAP", as described by Ira Glass.
+Welcome to my world of beginning with a lot of work until I close in on the "GAP", as described by Ira Glass.
 
 ### Things I would like to do:
 1. Write regularly
