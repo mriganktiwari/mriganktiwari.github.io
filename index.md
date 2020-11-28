@@ -1,5 +1,4 @@
 
-## Hello friends,
 Welcome to my world of beginning with a lot of work until I close in on the "GAP", as described by Ira Glass.
 
 ### Things I would like to do:
@@ -13,4 +12,3 @@ Welcome to my world of beginning with a lot of work until I close in on the "GAP
 2. Naval Ravikant
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file.
-
